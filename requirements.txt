@@ -4,8 +4,11 @@ Django==3.2.7
 django-cors-headers==3.8.0
 django-extensions==3.2.1
 djangorestframework==3.12.4
+graphviz==0.20.1
 Pillow==8.3.2
 pycodestyle==2.7.0
+pydot==1.4.2
+pyparsing==3.0.9
 pytz==2021.1
 sqlparse==0.4.2
 toml==0.10.2
