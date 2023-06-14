@@ -1,6 +1,19 @@
 # MyStudyClan
 </div>
 
+## Introduction
+
+MyStudyClan is a groundbreaking platform designed to empower software developers and foster a vibrant community of learning and collaboration. In this blog post, we will explore the key elements of our project, including its purpose, team members, timeline, target audience, and personal focus. Join us as we embark on a journey to transform the way developers learn, connect, and excel in their careers.
+
+> Checkout the deployed application: https://clan.makonde.tech/
+
+> You can read more about the project here: https://www.linkedin.com/pulse/revolutionizing-learning-experience-emmanuel-makonde/
+
+> Let's connect on LinkedIn: https://www.linkedin.com/in/emmanuel-makonde/
+
+
+## Installation
+
 ### Cloning the repository
 
 --> Clone the repository using the command below :
@@ -49,9 +62,8 @@ python manage.py runserver
 
 > ⚠ Then, the development server will be started at http://127.0.0.1:8000/
 
-#
 
-### App Preview :
+### Usage
 
 <table width="100%"> 
 <tr>
@@ -73,3 +85,38 @@ python manage.py runserver
 </table>
 
 
+### Contributing
+
+Email info@makonde.tech to contribute to this project
+
+### Related Projects
+
+Some related projects include:
+
+- Discord
+- Reddit
+
+
+## License
+
+The MIT License
+
+Copyright (c) 2023 Emmanuel Makonde https://makonde.tech
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
